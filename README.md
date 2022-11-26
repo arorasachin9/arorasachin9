@@ -31,4 +31,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-a-sachin?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-sachin/)](https://www.linkedin.com/in/a-sachin) [![Instagram Badge](https://img.shields.io/badge/-@arora.sachin.2?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/arora.sachin.2/)](https://www.instagram.com/arora.sachin.2/)
+[![Linkedin Badge](https://img.shields.io/badge/-a_sachin?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-sachin/)](https://www.linkedin.com/in/a-sachin) [![Instagram Badge](https://img.shields.io/badge/-@arora_sachin_2?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/arora.sachin.2/)](https://www.instagram.com/arora.sachin.2/)
