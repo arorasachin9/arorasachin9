@@ -29,8 +29,8 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<\br>
-<\br>
+</br>
+</br>
     <p align="left>
  ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arorasachin9&show_icons=true&hide_border=true&count_private=true)
  </p>
