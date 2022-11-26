@@ -34,5 +34,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-@a_sachin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-sachin/)](https://www.linkedin.com/in/a-sachin) [![Instagram Badge](https://img.shields.io/badge/-@arora.sachin.2-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/arora.sachin.2/)](https://www.instagram.com/arora.sachin.2/)
 
-</br>
 [![](https://visitcount.itsvg.in/api?id=shivamg4149&icon=0&color=0)](https://visitcount.itsvg.in)
