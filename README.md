@@ -6,11 +6,11 @@
  </abc>
 </h2> 
   <p>
-- :computer: I'm currently working on Spring Boot
-- :hourglass_flowing_sand:  Exploring Amazon AWS
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at Fleckstech
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- :computer: I'm currently working on Spring Boot<br>
+- :hourglass_flowing_sand:  Exploring Amazon AWS<br>
+- :rocket: Always ready to collaborate for Dev Experiments<br>
+- :man_technologist: Former Project Lead Intern at Fleckstech<br>
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" <br>
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br></p>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
