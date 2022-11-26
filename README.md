@@ -29,9 +29,7 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<br>
  ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arorasachin9&show_icons=true&hide_border=true&count_private=true)
- <br>
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-@a_sachin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-sachin/)](https://www.linkedin.com/in/a-sachin) [![Instagram Badge](https://img.shields.io/badge/-@arora.sachin.2-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/arora.sachin.2/)](https://www.instagram.com/arora.sachin.2/)
