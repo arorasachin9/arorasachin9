@@ -3,6 +3,13 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Sachin, Software Developer :computer:<br>
   <br>
+  
+- :computer: I'm currently working on Spring Boot
+- :hourglass_flowing_sand:  Exploring Amazon AWS
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: Former Project Lead Intern at Fleckstech
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
@@ -22,12 +29,6 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Spring Boot
-- :hourglass_flowing_sand:  Exploring Amazon AWS
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at Fleckstech
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
  ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arorasachin9&show_icons=true&hide_border=true&count_private=true)
 <h2 align="left">:heart: Let's get connected:</h2>
