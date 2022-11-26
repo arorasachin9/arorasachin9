@@ -5,6 +5,7 @@
   <br>
  </abc>
 </h2> 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width=50%">
   <p>
 - :computer: I'm currently working on Spring Boot<br>
 - :hourglass_flowing_sand:  Exploring Amazon AWS<br>
@@ -12,7 +13,7 @@
 - :man_technologist: Former Project Lead Intern at Fleckstech<br>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" <br>
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br></p>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width=50%">
+    
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -26,8 +27,6 @@
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
 
  ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arorasachin9&show_icons=true&hide_border=true&count_private=true)
