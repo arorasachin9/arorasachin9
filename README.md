@@ -19,9 +19,6 @@
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
-    <p align="right>
- ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arorasachin9&show_icons=true&hide_border=true&count_private=true)
- </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -32,6 +29,11 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
+<\br>
+<\br>
+    <p align="left>
+ ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arorasachin9&show_icons=true&hide_border=true&count_private=true)
+ </p>
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-@a_sachin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a-sachin/)](https://www.linkedin.com/in/a-sachin) [![Instagram Badge](https://img.shields.io/badge/-@arora.sachin.2-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/arora.sachin.2/)](https://www.instagram.com/arora.sachin.2/)
