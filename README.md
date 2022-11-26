@@ -12,7 +12,7 @@
 - :man_technologist: Former Project Lead Intern at Fleckstech<br>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" <br>
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br></p>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" align="right" width=50%">
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
